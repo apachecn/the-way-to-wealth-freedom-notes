@@ -10,4 +10,4 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/the-way-to-wealth-freedom-notes)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/the-way-to-wealth-freedom-notes)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/the-way-to-wealth-freedom-notes)
-+ [代码仓库](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
++ [代码仓库](https://github.com/it-ebooks/the-way-to-wealth-freedom-notes)
