@@ -15,6 +15,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install the-way-to-wealth-freedom-notes
+the-way-to-wealth-freedom-notes <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
